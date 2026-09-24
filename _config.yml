@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Michael D. Lee"
 description              : &description "Professor of Cognitive Sciences at the University of California, Irvine"
 url                      : https://mdlee.github.io
-baseurl                  : "/cv"
-repository               : "mdlee/cv"
+baseurl                  : ""
+repository               : "mdlee/mdlee.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
